@@ -2,6 +2,8 @@ from supolo import supolo
 import asyncio
 x = supolo(tokenType="bot", token="")
 
+# supolo config python
+
 
 # get servers token is in
 servers = asyncio.run(x.get_servers())
